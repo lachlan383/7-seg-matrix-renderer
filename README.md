@@ -1,2 +1,2 @@
 # 7-seg-matrix-renderer
-A prototype image renderer for a matrix of 7-segment displays
+A prototype image renderer for an arbitrary matrix of 7-segment displays
